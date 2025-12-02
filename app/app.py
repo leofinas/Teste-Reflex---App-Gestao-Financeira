@@ -49,7 +49,7 @@ def dashboard_content() -> rx.Component:
                         class_name="flex items-center gap-3 mb-2",
                     ),
                     rx.el.p(
-                        "Gerencie seus fluxos mensais, despesas fixas e parcelamentos.",
+                        "Gerencie seus fluxos mensais, despesas fixas e parcelamentos com facilidade.",
                         class_name="text-gray-500",
                     ),
                     class_name="mb-8",

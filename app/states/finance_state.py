@@ -35,6 +35,11 @@ CATEGORY_DEFINITIONS = {
         "hex": "#a855f7",
         "color_cls": "bg-purple-100 text-purple-700 border-purple-200",
     },
+    "Comunicação": {
+        "icon": "radio",
+        "hex": "#00ff04",
+        "color_cls": "bg-lime-100 text-lime-700 border-lime-200",
+    },
     "Despesas pessoais": {
         "icon": "user",
         "hex": "#ec4899",
